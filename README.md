@@ -58,6 +58,7 @@ This guide covers training a sequence-to-sequence model for translating English 
 The dataset used for this English to Hinglish Translation Model is structured in JSON format. It contains a collection of English sentences paired with their corresponding Hinglish translations. Each data point in the dataset is represented as a JSON object with two key-value pairs: "eng" for English and "hinglish" for Hinglish. (Dataset is created by me not taken from any where)
 
 Here is an example of the dataset structure:
+
 {"eng": "Call me back.", "hinglish": "मुझे वापस call करो।"}
 
 
